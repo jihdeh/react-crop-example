@@ -1,0 +1,27 @@
+{
+  "name": "crop-tool-example",
+  "description": "A sample application using react-image-crop-tool node module",
+  "main": "index.js",
+  "authors": [
+    "Jihdeh"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "React",
+    "crop",
+    "tool",
+    "image",
+    "npm"
+  ],
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
